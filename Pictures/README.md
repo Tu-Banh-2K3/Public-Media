@@ -1,3 +1,3 @@
-Tạo thư mục mới lưu trữ hình ảnh
-action 
-thêm "/" vào path
+Tạo thư mục mới lưu trữ hình ảnh.
+
+Thêm "/" vào path
